@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Darrelandroid</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_woof">WoofActivity</string>
+    <string name="title_activity_lottie">LottieActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_five">FiveActivity</string>
+    <string name="title_activity_six">SixActivity</string>
+    <string name="title_activity_seven">SevenActivity</string>
+    <string name="title_activity_final">FinalActivity</string>
+</resources>
